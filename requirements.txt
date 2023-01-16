@@ -1,4 +1,5 @@
 gunicorn
+tensorflow
 
 # absl-py==1.4.0
 # astunparse==1.6.3
